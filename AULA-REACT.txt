@@ -1,0 +1,9 @@
+APP REACT JS:
+
+nesta aplicação aprendi os principios basicos do ReactJs:
+* COMPONENTIZAÇÃO
+* A PARTE DE ROTIAMENTO COM O REACT ROWTER
+* UTILIZAÇÃO DE API
+* UTILIZAÇÃO DE ESTADO (STATE)
+* ESTILIZAÇÃO
+
